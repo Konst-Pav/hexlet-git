@@ -1,1 +1,2 @@
-Testing command git commit FILE-NAME
+Test line 1
+Test line 1
